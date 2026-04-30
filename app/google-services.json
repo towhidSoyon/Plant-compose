@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "192948341812",
+    "firebase_url": "https://plant-8e6ce-default-rtdb.firebaseio.com",
+    "project_id": "plant-8e6ce",
+    "storage_bucket": "plant-8e6ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192948341812:android:993b5a775a9bd3b6748e61",
+        "android_client_info": {
+          "package_name": "com.example.admin_plant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0j0U0YTbBtG4TXedoVi4WkVXUTJZzbbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192948341812:android:ca04ee7941e575a0748e61",
+        "android_client_info": {
+          "package_name": "com.example.plant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0j0U0YTbBtG4TXedoVi4WkVXUTJZzbbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192948341812:android:074cb5e0bd568866748e61",
+        "android_client_info": {
+          "package_name": "com.nagispo.plant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0j0U0YTbBtG4TXedoVi4WkVXUTJZzbbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192948341812:android:5c41ed79eeb16308748e61",
+        "android_client_info": {
+          "package_name": "com.plant.compose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0j0U0YTbBtG4TXedoVi4WkVXUTJZzbbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192948341812:android:f1cd85cc8865e41c748e61",
+        "android_client_info": {
+          "package_name": "com.tsdev.plant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0j0U0YTbBtG4TXedoVi4WkVXUTJZzbbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
